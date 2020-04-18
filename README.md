@@ -1,6 +1,9 @@
 # screens
 
-A new Flutter project.
+This Project is my portfolio Please feel free and take a tour.
+
+As you see in my CV I'm ambitious, for sure I am not perfect but I'm dreamer and hard worker and I'm always looking for ways to develop my skills.
+So it will be great opportunity to develop myself by working with you and you will have a very valuable member at your company.
 
 ## Getting Started
 
